@@ -32,7 +32,7 @@ end
 # vscode ➜ /workspaces/ruby $ ruby chamada.rb 
 # ["Jaifer", "Luã"]
 # ["Lucas", "Gustavo"]
-# ["Pablo", "David"]
+# ["Pablo", "David"] ok
 # ["Felipe", "Julia"]
 # ["Arthur", "JoãoB"]
 # ["Alan", "Daniel"] ok

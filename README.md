@@ -37,6 +37,9 @@ class App {
     System.out.println(
       //            0123456789012345678
       Texto.substr("programacao modular", 0, 4, 12)); // progmodular
+    System.out.println(
+      //            0123456789012345678
+      Texto.substr("programacao modular", 0, 3, 6, 9, 12, 15));
   }
 }
 ```

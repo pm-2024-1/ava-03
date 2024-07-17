@@ -1,4 +1,4 @@
-# ruby
+e# ruby
 presentes = %w{
   Luã
   David
@@ -31,13 +31,13 @@ end
 
 # vscode ➜ /workspaces/ruby $ ruby chamada.rb 
 # ["Jaifer", "Luã"] ok
-# ["Lucas", "Gustavo"]
+# ["Lucas", "Gustavo"] casa
 # ["Pablo", "David"] ok
 # ["Felipe", "Julia"] ok
-# ["Arthur", "JoãoB"]
+# ["Arthur", "JoãoB"] casa
 # ["Alan", "Daniel"] ok
 # ["Mathias", "Douglas"] ok
 # ["Vinícius", "JoãoS"] ok
-# ["Evelyn", "Ronaldo"]
+# ["Evelyn", "Ronaldo"] casa
 # ["Bruno", "Fellipe"] ok
-# ["Adriano", "Matheus"]
+# ["Adriano", "Matheus"] ok

@@ -30,7 +30,7 @@ until presentes.empty?
 end
 
 # vscode ➜ /workspaces/ruby $ ruby chamada.rb 
-# ["Jaifer", "Luã"]
+# ["Jaifer", "Luã"] ok
 # ["Lucas", "Gustavo"]
 # ["Pablo", "David"] ok
 # ["Felipe", "Julia"] ok

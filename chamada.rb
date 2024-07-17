@@ -33,7 +33,7 @@ end
 # ["Jaifer", "Luã"]
 # ["Lucas", "Gustavo"]
 # ["Pablo", "David"] ok
-# ["Felipe", "Julia"]
+# ["Felipe", "Julia"] ok
 # ["Arthur", "JoãoB"]
 # ["Alan", "Daniel"] ok
 # ["Mathias", "Douglas"]

@@ -36,7 +36,7 @@ end
 # ["Felipe", "Julia"] ok
 # ["Arthur", "JoãoB"]
 # ["Alan", "Daniel"] ok
-# ["Mathias", "Douglas"]
+# ["Mathias", "Douglas"] ok
 # ["Vinícius", "JoãoS"] ok
 # ["Evelyn", "Ronaldo"]
 # ["Bruno", "Fellipe"] ok

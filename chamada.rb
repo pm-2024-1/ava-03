@@ -31,13 +31,13 @@ end
 
 # vscode ➜ /workspaces/ruby $ ruby chamada.rb 
 # ["Jaifer", "Luã"] ok
-# ["Lucas", "Gustavo"] casa
+# ["Lucas", "Gustavo"] ok
 # ["Pablo", "David"] ok
 # ["Felipe", "Julia"] ok
-# ["Arthur", "JoãoB"] casa
+# ["Arthur", "JoãoB"] ok
 # ["Alan", "Daniel"] ok
 # ["Mathias", "Douglas"] ok
 # ["Vinícius", "JoãoS"] ok
-# ["Evelyn", "Ronaldo"] casa
+# ["Evelyn", "Ronaldo"] ok
 # ["Bruno", "Fellipe"] ok
 # ["Adriano", "Matheus"] ok
